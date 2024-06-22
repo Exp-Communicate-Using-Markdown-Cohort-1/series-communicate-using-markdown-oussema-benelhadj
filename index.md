@@ -5,10 +5,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
 - [x] this item is complete
 - [x] this syntax is required
 - [ ] this syntax is not complete 
